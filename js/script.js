@@ -47,6 +47,20 @@ function checkName(){
     akan="Kofi"
   }else if(f>=6.5 && f<7.5 && gender=="Male"){
     akan="Kwame"
+  }else if(f,1.5 && gender=="Female"){
+    akan="Akosua"
+  }else if(f>=1.5 && f<2.5 && gender=="Female"){
+    akan="Adwoa"
+  }else if(f>=2.5 && f<3.5 && gender=="Female"){
+    akan="Abenna"
+  }else if(f>=3.5 && f<4.5 && gender=="Female"){
+    akan="Akua"
+  }else if(f>=4.5 && f<5.5 && gender=="Female"){
+    akan="Yaa"
+  }else if(f>=5.5 && f<6.5 && gender=="Female"){
+    akan="Afua"
+  }else if(f>=6.5 && f<7.5 && gender=="Female"){
+    akan="Ama"
   }
-
-  }
+  return(alert(akan));
+}
