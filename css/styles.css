@@ -1,7 +1,13 @@
 .header{
   font-family: 'Baskervville', serif;
-  font-size:xx-large;
+
 }
-hi{
- 
+.form-control{
+  width: 50%;
+}
+.form-row{
+  margin-left: 100px;
+}
+#input{
+  margin-left: 100px;
 }
