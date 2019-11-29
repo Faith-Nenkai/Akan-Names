@@ -26,33 +26,33 @@ function checkName(){
     alert(f)
   
 if(f<6.1120 && gender === "Female"){
-  alert("Akosua")
+  alert("Your akan name is Akosua")
  }else if(f<6.1130 && gender === "Female"){
-  alert("Adwao")
+  alert("Your akan name is Adwao")
  }else if(f<6.1140 && gender === "Female"){
-   alert("Abenna")
+   alert("Your akan name is Abenna")
  }else if(f<6.1150 && gender === "Female"){
-   alert("Akua")
+   alert("Your akan name is Akua")
  }else if(f<6.1160 && gender === "Female"){
-  alert("Yaa")
+  alert("Your akan name is Yaa")
  }else if(f<6.1170 && gender === "Female"){
-  alert("Afua")
+  alert("Your akan name is Afua")
  }else if(f<6.1180 && gender === "Female"){
-  alert("Ama")
+  alert("Your akan name is Ama")
  }else if(f<6.1120 && gender === "Male"){
-  alert("Kwasi")
+  alert("Your akan name is Kwasi")
  }else if(f<6.1130 && gender === "Male"){
-  alert("Kwadwo")
+  alert("Your akan name is Kwadwo")
  }else if(f<6.1140 && gender === "Male"){
-   alert("Kwabena")
+   alert("Your akan name is Kwabena")
  }else if(f<6.1150 && gender === "Male"){
-   alert("Kwaku")
+   alert("Your akan name is Kwaku")
  }else if(f<6.1160 && gender === "Male"){
-  alert("Yaw")
+  alert("Your akan name is Yaw")
  }else if(f<6.1170 && gender === "Male"){
-  alert("kofi")
+  alert("Your akan name is Kofi")
  }else if(f<6.1180 && gender === "Male"){
-  alert("Kwame")
+  alert("Your akan name is Kwame")
  } 
 };
 
