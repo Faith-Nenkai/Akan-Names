@@ -17,11 +17,17 @@
 #submit{
   margin-left: 50%;
 }
-/* body{
+body{
   background: linear-gradient(to right, #8a2387, #e94057, #f27121); 
-} */
+}
 
 .placeholder{
   color: black;
   font-weight:bold  ;
+}
+
+h2{
+  color: black;
+  font-weight: bold;
+  
 }
