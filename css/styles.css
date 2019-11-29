@@ -1,6 +1,6 @@
 .header{
   font-family: 'Baskervville', serif;
-
+  text-align: center;
 }
 .form-control{
   width: 50%;
@@ -10,4 +10,10 @@
 }
 #input{
   margin-left: 100px;
+}
+.desc{
+  text-align: center;
+}
+#submit{
+  margin-left: 50%;
 }
