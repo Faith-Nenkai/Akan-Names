@@ -1,3 +1,6 @@
 .header{
   font-family: 'Baskervville', serif;
 }
+.form-control{
+  width: 50%;
+}
