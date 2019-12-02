@@ -30,48 +30,48 @@ function checkName(){
     }
 
 
-var f = parseInt(( (cc/4) -((2*cc)-1) + ((5*yy)/4) + (26*(mm+1)/10) + dd ) % 7);
+var f =( ( (cc/4) -2*cc-1) + ((5*yy/4) ) + ((26*(mm+1)/10)) + dd ) % 7
     alert(f)
-if(f<6.1120 && gender === "Female"){
+if(f<1 && gender === "Female"){
   alert("Your akan name is Akosua" );
   alert("Sunday")
- }else if(f<6.1130 && gender === "Female"){
+ }else if(f<2 && gender === "Female"){
   alert("Your akan name is Adwao");
   alert("Monday")
- }else if(f<6.1140 && gender === "Female"){
+ }else if(f<3 && gender === "Female"){
    alert("Your akan name is Abenna");
    alert("Tuesday")
- }else if(f<6.1150 && gender === "Female"){
+ }else if(f<4 && gender === "Female"){
    alert("Your akan name is Akua");
    alert("Wednesday")
- }else if(f<6.1160 && gender === "Female"){
+ }else if(f<5 && gender === "Female"){
   alert("Your akan name is Yaa");
   alert("Thursday")
- }else if(f<6.1170 && gender === "Female"){
+ }else if(f<6 && gender === "Female"){
   alert("Your akan name is Afua");
   alert("Friday")
- }else if(f<6.1180 && gender === "Female"){
+ }else if(f<7 && gender === "Female"){
   alert("Your akan name is Ama");
   alert("Saturday")
- }else if(f<6.1120 && gender === "Male"){
+ }else if(f<1 && gender === "Male"){
   alert("Your akan name is Kwasi");
   alert("Sunday")
- }else if(f<6.1130 && gender === "Male"){
+ }else if(f<2 && gender === "Male"){
   alert("Your akan name is Kwadwo");
   alert("Monday")
- }else if(f<6.1140 && gender === "Male"){
+ }else if(f<3 && gender === "Male"){
    alert("Your akan name is Kwabena");
    alert("Tuesday")
- }else if(f<6.1150 && gender === "Male"){
+ }else if(f<4 && gender === "Male"){
    alert("Your akan name is Kwaku");
    alert("Wednesday")
- }else if(f<6.1160 && gender === "Male"){
+ }else if(f<5 && gender === "Male"){
   alert("Your akan name is Yaw");
   alert("Thursday")
- }else if(f<6.1170 && gender === "Male"){
+ }else if(f<6 && gender === "Male"){
   alert("Your akan name is Kofi");
   alert("Friday")
- }else if(f<6.1180 && gender === "Male"){
+ }else if(f<7 && gender === "Male"){
   alert("Your akan name is Kwame");
   alert("Saturday")
  } 
