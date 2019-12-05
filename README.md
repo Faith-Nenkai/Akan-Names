@@ -7,6 +7,9 @@ AKAN NAME
 ## Description
 This application gives the users an AKAN name according to their birthday dates and gender.The AKAN names are generated from Ghanian culture.
 
+## Github Live Link
+Here is the live link to my Akan Names Project https://faith-nenkai.github.io/Akan-Names/
+
 ## Setup/Installation Requirements
 * Git.
 * Visual-Studio.
