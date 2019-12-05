@@ -7,11 +7,11 @@ function checkName(){
     var cc = parseInt(yyyy.slice(0,2));
     var yy = parseInt(yyyy.slice(2,4));
    
-    // var daysOfTheWeek=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
+    var daysOfTheWeek=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
 
-    // var maleNames=["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"]
+    var maleNames=["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"]
 
-    // var femaleNames=["Akosua","Adwoa","Abenna","Akua","Yaa","Afua","Ama"]
+    var femaleNames=["Akosua","Adwoa","Abenna","Akua","Yaa","Afua","Ama"]
 
     
 
