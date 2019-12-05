@@ -1,6 +1,41 @@
-.header{
+.header {
   font-family: 'Baskervville', serif;
+  text-align: center;
+  font-weight: bold;
+  color: black;
 }
-.form-control{
+
+.form-control {
   width: 50%;
+}
+
+.form-row {
+  margin-left: 100px;
+}
+
+#input {
+  margin-left: 100px;
+}
+
+.desc {
+  text-align: center;
+}
+
+#submit {
+  margin-left: 50%;
+}
+
+body {
+  background: linear-gradient(to right, #8a2387, #e94057, #f27121);
+}
+
+.placeholder {
+  color: black;
+  font-weight: bold;
+}
+
+h2 {
+  color: black;
+  font-weight: bold;
+
 }
